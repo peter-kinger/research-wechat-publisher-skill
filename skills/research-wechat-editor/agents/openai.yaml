@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研公众号编辑"
+  short_description: "面向科研人员的公众号润色、排版、排期与自动提醒完整工作流"
+  default_prompt: "Use $research-wechat-editor to revise and format my rough research article, then create an editorial schedule and reminders."
