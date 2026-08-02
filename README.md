@@ -3,6 +3,8 @@
 Turn research papers, project notes, and rough drafts into accurate, readable,
 WeChat-ready science stories.
 
+[Project homepage](https://research-wechat-publisher.gisphere.chatgpt.site)
+
 This repository contains the `research-wechat-editor` Codex skill, a worked
 paper-interpretation example, and the source for the project homepage.
 
