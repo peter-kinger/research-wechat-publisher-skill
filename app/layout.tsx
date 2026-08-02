@@ -22,7 +22,7 @@ const mono = Space_Mono({
 
 const title = "Research WeChat Publisher";
 const description =
-  "An evidence-first Codex skill for turning research papers into accurate, readable WeChat stories.";
+  "中英双语科研公众号写作主页：把论文转化为准确、易懂、证据可追溯的微信文章。";
 
 export async function generateMetadata(): Promise<Metadata> {
   const requestHeaders = await headers();
@@ -60,7 +60,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="zh-CN">
       <body className={`${display.variable} ${sans.variable} ${mono.variable}`}>
         {children}
       </body>
