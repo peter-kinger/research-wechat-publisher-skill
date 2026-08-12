@@ -25,6 +25,7 @@ paper-interpretation example, and the source for the project homepage.
 ```text
 skills/research-wechat-editor/   Installable Codex skill
 examples/irrigation-scheduling/  Real paper-to-post example
+examples/global-poverty-environment/  Global poverty and environmental pressure example
 app/                             Project homepage
 tests/                           Rendered-site checks
 ```
