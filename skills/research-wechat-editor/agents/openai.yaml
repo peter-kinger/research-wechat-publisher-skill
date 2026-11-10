@@ -1,4 +1,4 @@
 interface:
   display_name: "科研公众号编辑"
-  short_description: "忠实、准确、简洁地编辑科研公众号文章，保留作者原意"
-  default_prompt: "Use $research-wechat-editor to edit my research materials into an accurate, faithful, concise Chinese WeChat article. Preserve my intent and use light editing unless I request a rewrite."
+  short_description: "面向科研人员的公众号润色、排版、排期与自动提醒完整工作流"
+  default_prompt: "Use $research-wechat-editor to revise and format my rough research article, then create an editorial schedule and reminders."
