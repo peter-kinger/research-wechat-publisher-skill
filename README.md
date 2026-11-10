@@ -10,15 +10,16 @@ paper-interpretation example, and the source for the project homepage.
 
 ## What the skill enforces
 
-- A structured article header with title, venue, DOI, year, affiliations, and a
-  complete citation.
-- Verifiable author-team information without inferred roles or biographies.
+- Academic accuracy and the author's intent take priority over presentation.
+- Light editing by default; substantial restructuring only when requested.
+- A title, an 80–150-character introduction, a main image with a separate
+  caption, the body, and relevant paper information and references at the end.
+- One recommended title by default and objective, descriptive subheadings.
 - Evidence-traceable figures labeled as original, redrawn, or editorial
-  diagrams.
-- Clear separation between observed results, model estimates, simulations, and
-  interpretation.
-- Mobile-friendly WeChat structure with three title options, short sections,
-  image guidance, limitations, and references.
+  diagrams, with clear separation of observations, predictions, and simulations.
+- Concise, natural Chinese without forced story templates, inflated claims,
+  mandatory author profiles, or engagement prompts.
+- Editorial schedules and reminders only when explicitly requested.
 
 ## Repository layout
 
